@@ -2,8 +2,6 @@
 
 Custom the JUCE slider
 
-get the prototype from StyleSheet .h/.cpp
+get the prototype from StyleSheet .h / .cpp, and:
 
-and
-
-  #include "S
+  #include "StyleSheet.h"
